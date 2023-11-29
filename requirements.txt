@@ -6,7 +6,7 @@ optax >= 0.1.0, <= 0.1.2
 dm-haiku == 0.0.5
 chex >= 0.0.7, < 0.1.3
 jax == 0.2.12
-jaxlib == 0.1.68
+jaxlib >= 0.1.68
 transformers >= 4.17
 progressbar2
 mesh_transformer @ git+https://github.com/VE-FORBRYDERNE/mesh-transformer-jax#egg=mesh_transformer
